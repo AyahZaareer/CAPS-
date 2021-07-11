@@ -1,7 +1,8 @@
-'use strict';
 
-const events = require('../events');
+
+
 const { afterEach, it, expect } = require('@jest/globals');
+const events = require('../events');
 
 
 
