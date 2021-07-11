@@ -2,12 +2,13 @@
 
 
 ## Test CI:
-[URL]()
+[URL](https://github.com/AyahZaareer/CAPS-/actions)
+
 
 
 
 ## Pull Request:
-[URL]()
+[URL](https://github.com/AyahZaareer/CAPS-/pull/1)
 
 ## Setup:
 1.clone the repo.
@@ -24,3 +25,4 @@
 
 
 ![reverse](caps.jpg)
+
