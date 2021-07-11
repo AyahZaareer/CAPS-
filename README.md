@@ -8,7 +8,7 @@
 
 
 ## Pull Request:
-[URL](https://github.com/AyahZaareer/CAPS-/pull/1)
+[URL](https://github.com/AyahZaareer/CAPS-/pull/3)
 
 ## Setup:
 1.clone the repo.
