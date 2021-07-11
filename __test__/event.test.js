@@ -1,10 +1,7 @@
 
 
-
 const { afterEach, it, expect } = require('@jest/globals');
 const events = require('../events');
-
-
 
 describe('test', () => {
     let consoleSpy;//we use it because the result show console.log
