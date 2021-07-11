@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3",
+    "uuid": "^8.3.2"
+  },
+  "name": "caps-",
+  "description": "",
+  "version": "1.0.0",
+  "main": "caps.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyahZaareer/CAPS-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyahZaareer/CAPS-/issues"
+  },
+  "homepage": "https://github.com/AyahZaareer/CAPS-#readme"
+}
