@@ -4,8 +4,7 @@
 ## Test CI:
 [URL]()
 
-## Heroku Link:
-[URL]()
+
 
 ## Pull Request:
 [URL]()
@@ -22,5 +21,6 @@
 
 ## Test:
 .Unit test: npm test
+
 
 ![reverse](caps.jpg)
